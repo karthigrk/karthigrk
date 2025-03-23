@@ -1,7 +1,7 @@
 ### Hi 👋 I'm Karthikeyan GR!
 
 # 💫 About Me:
-A seasoned Lead Frontend Developer with 14 years of extensive experience in designing and implementing high-performance web applications. Proficient in modern frontend technologies including ReactJS, Angular, AngularJS, Redux, and NodeJS. Expert in crafting responsive and interactive user interfaces using HTML5, CSS3, Bootstrap, SCSS and Material UI. Adept at JavaScript programming, ensuring seamless and dynamic user experiences.
+A seasoned Lead Frontend Developer with 14 years of extensive experience in designing and implementing high-performance web applications. Proficient in modern frontend technologies including React.js, Angular, AngularJS, Redux, and Node.js. Expert in crafting responsive and interactive user interfaces using HTML5, CSS3, Bootstrap, SCSS and Material UI. Adept at JavaScript programming, ensuring seamless and dynamic user experiences.
 
 
 # 💻 Tech Stack:
